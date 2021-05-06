@@ -3311,6 +3311,7 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
 .home-seven,
 .home-nine{
   margin-top: -96px;
+  margin-bottom: -50px;
   padding: 0;
 }
 .home-six{
@@ -3329,7 +3330,7 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
-  height: 960px;
+  height: 650px;
   z-index: 0 !important;
 }
 .home-nine:before{
