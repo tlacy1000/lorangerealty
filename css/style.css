@@ -3319,7 +3319,7 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
   padding: 0;
 }
 .home-seven{
-  background-image: url(../images/background/10.jpg);
+  background-image: url(/images/background/7.jpg);
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -3328,11 +3328,12 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
 .home-nine{
   -webkit-background-size: cover;
   background-size: cover;
-  background-position: center  ;
+  background-position: absolute ;
   height: 600px;
   z-index: 0 !important;
 }
 .home-nine:before{
+  background-image: url(/images/background/7.jpg);
   background-image: -moz-linear-gradient( 120deg, rgb(100,17,147) 0%, rgb(35,0,90) 100%);
   background-image: -webkit-linear-gradient( 120deg, rgb(100,17,147) 0%, rgb(35,0,90) 100%);
   background-image: -ms-linear-gradient( 120deg, rgb(100,17,147) 0%, rgb(35,0,90) 100%);
