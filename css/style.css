@@ -3326,11 +3326,10 @@ form.home5_advanced_search_form .form-group input.form-control::-ms-input-placeh
   height: 800px;
 }
 .home-nine{
-  background-image: url(../images/background/12.jpg);
   -webkit-background-size: cover;
   background-size: cover;
-  background-position: center center;
-  height: 650px;
+  background-position: center  ;
+  height: 600px;
   z-index: 0 !important;
 }
 .home-nine:before{
