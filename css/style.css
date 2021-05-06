@@ -11186,7 +11186,7 @@ a.btn.btn_error{
   display: none;
 }
 .header_user_notif .user_notif .simplebar-offset::-webkit-scrollbar-thumb {
-  background-color: #dfdfdf !important; // manage scrollbar thumb background color here
+  background-color: #610707 !important; // manage scrollbar thumb background color here
   border-radius: 6px;
 }
 .simplebar-placeholder {
