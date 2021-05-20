@@ -1,0 +1,16 @@
+<!-- Our Blog -->
+	<section class="our-blog bb1 pb30">
+		<div class="container">
+			
+			<h4>Articles</h4>
+				<div class="row">
+					<div class="col-md-10 col-lg-12 col-xl-12">
+						<script src="https://www.homekeepr.com/blog/assets/dist/homekeepr-blog.min.js"></script><div class="homekeepr-blog" data-sharedby="blake-lorange"></div>
+							</div>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
