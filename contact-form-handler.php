@@ -28,19 +28,19 @@ $email_address))
 
 $to = $myemail;
 
-$email_subject = "Contact form submission: $name";
+$email_subject = "Contact form submission: $form_name";
 
 $email_body = "You have received a new message. ".
 
-" Here are the details:\n Name: $name \n ".
+" Here are the details:\n Name: $form_name \n ".
 
-"Email: $email_address\n Message \n $message";
+"Email: $form_email\n Message \n $form_message";
 
 $headers = "From: $myemail\n";
 
-$headers .= "Reply-To: $email_address";
+$headers .= "Reply-To: $form_email";
 
-mail($to,$email_subject,$email_body,$headers);
+mail($to,$form_subject,$form_messag,$headers);
 
 //redirect to the 'thank you' page
 
