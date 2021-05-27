@@ -1,6 +1,4 @@
-<html>
-<body>
-
+<?php
 $errors = '';
 $myemail = 'blorange@kw.com';//<-----Put Your email address here.
 if(empty($_POST['name'])  || 
@@ -45,5 +43,4 @@ mail($to,$email_subject,$email_body,$headers);
 header('Location: contact-form-thank-you.html');
 
 }
-</body>
-</html>
+?>
